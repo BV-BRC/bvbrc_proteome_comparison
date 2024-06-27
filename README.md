@@ -12,12 +12,8 @@ This module is a component of the BV-BRC build system. It is designed to fit int
 `dev_container` infrastructure which manages development and production deployment of
 the components of the BV-BRC. More documentation is available [here](https://github.com/BV-BRC/dev_container/tree/master/README.md).
 
-This module provides the following application specfication(s):
-* [Date](app_specs/Date.md)
-* [FluxBalanceAnalysis](app_specs/FluxBalanceAnalysis.md)
+This module provides the following application specfication:
 * [GenomeComparison](app_specs/GenomeComparison.md)
-* [PhylogeneticTree](app_specs/PhylogeneticTree.md)
-* [Sleep](app_specs/Sleep.md)
 
 
 ## See also
